@@ -61,8 +61,8 @@ LABEL \
     maintainer="Einschmidt" \
     org.opencontainers.image.title="${BUILD_NAME}" \
     org.opencontainers.image.description="${BUILD_DESCRIPTION}" \
-    org.opencontainers.image.vendor="Einschmidt" \
-    org.opencontainers.image.authors="einschmidt" \
+    org.opencontainers.image.vendor="bridadan" \
+    org.opencontainers.image.authors="bridadan" \
     org.opencontainers.image.licenses="MIT" \
     org.opencontainers.image.url="https://google.com" \
     org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \
